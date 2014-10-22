@@ -1,0 +1,21 @@
+{
+  "name": "jquery-screenplay",
+  "version": "0.1.0",
+  "author": "Aaron Chuo <crazychuo@gmail.com>",
+  "description": "A jQuery plugin that makes interactive things whenever you scroll to an element.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronChuo/jquery-screenplay.git"
+  },
+  "keywords": [
+    "jquery",
+    "scroll",
+    "parallax",
+    "interactive",
+    "animate"
+  ],
+  "devDependencies": {
+    "gulp": "3.8.8"
+  },
+  "license": "MIT"
+}
